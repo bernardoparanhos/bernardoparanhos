@@ -20,11 +20,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Produção na UTFPR**. Meu diferencial é unir a mentalidade analítica da engenharia com a criatividade do desenvolvimento web. Não crio apenas interfaces bonitas; crio sistemas otimizados.
+Graduando em **Engenharia de Produção na UTFPR (Medianeira)**. Meu diferencial é conectar a visão estratégica de **Processos e Segurança (SST)** com a agilidade da tecnologia. Acredito que a organização lógica — seja em uma linha de produção ou em um código — é a base da eficiência.
 
-* 🔭 **Foco atual:** Otimização de Processos Industriais via Web & SEO Avançado.
-* 🌱 **Estudando:** Arquitetura de Software e UX/UI para Engenharia.
-* ⚡ **Abordagem:** Engenharia Lógica + Design Moderno.
+* 🔭 **Foco atual:** Otimização de Processos Industriais, SST e Inteligência de Dados (Power BI/Excel).
+* 🌱 **Estudando:** SQL, Python para Análise de Dados e Engenharia de Prompts.
+* ⚡ **Abordagem:** "Um sistema organizado é um sistema seguro" — Gestão impulsionada por IA.
 
 ---
 
