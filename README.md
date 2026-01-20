@@ -43,7 +43,7 @@ Sou estudante de **Engenharia de Produção na UTFPR**. Meu diferencial é unir 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bernardoparanhos&show_icons=true&theme=dracula&hide_border=true&count_private=false" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bernardoparanhos&show_icons=true&theme=dracula&hide_border=true&count_private=false&hide=stars,prs,issues,contribs" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoparanhos&layout=compact&theme=dracula&hide_border=true" />
